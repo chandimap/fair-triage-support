@@ -3,7 +3,7 @@
 
 **Author:** Chandima Liyana Arachchige  
 **Purpose:** A personal, research-oriented prototype for **fairness-aware triage decision support**.  
-**Scope:** Methods, code and UI for *simulation studies*—not a medical product.
+**Scope:** Methods, code and UI for *simulation studies*
 
 This project implements:
 - A calibrated risk model (scikit-learn: Logistic Regression / Gradient Boosting)
