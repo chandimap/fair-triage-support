@@ -54,8 +54,6 @@ Columns (example):
 - Comorbidities: `comorb_count`
 - **Label:** `deteriorated_6w` (0/1) – proxy for “needs early intervention”
 
-> You can replace the CSV with a de-identified extract if you have legal/ethical approval. Map columns in `src/data.py`.
-
 ---
 
 ## 3) What’s inside
@@ -90,4 +88,4 @@ Columns (example):
 
 ## 6) License
 
-MIT – see `LICENSE`.
+MIT 
